@@ -1,6 +1,6 @@
-# HyPlayer-lrc-process
+# lyrics_process.py
 
-自用。处理HyPlayer保存的歌词文件。
+处理HyPlayer保存的歌词文件。
 
 自动扫描整个文件夹中的lrc歌词。
 
